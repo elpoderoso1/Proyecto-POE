@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{98CD2810-B340-4AEC-B107-5D8C0B37BE85}</ProjectGuid>
+    <ProjectGuid>{2EDAB901-FD55-4CEB-8AA5-328216EC7547}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Sistema.Datos</RootNamespace>
@@ -41,16 +41,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Asignacion.cs" />
-    <Compile Include="Asignatura.cs" />
     <Compile Include="Conexion.cs" />
-    <Compile Include="Docente.cs" />
-    <Compile Include="Grado.cs" />
+    <Compile Include="DAsignatura.cs" />
+    <Compile Include="DDocente.cs" />
+    <Compile Include="DEstudiante.cs" />
+    <Compile Include="DUsuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Sistema.Entidades\Sistema.Entidades.csproj">
-      <Project>{7c81262e-4b37-4595-92a1-fe718ce06f48}</Project>
+      <Project>{0670e4a7-c84b-4cf9-94e0-1935c8cc474b}</Project>
       <Name>Sistema.Entidades</Name>
     </ProjectReference>
   </ItemGroup>
