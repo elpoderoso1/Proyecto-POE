@@ -27,7 +27,7 @@ namespace Sistema.Datos
             }
             return Cadena;
         }
-        public static Conexion ObtenerInstancia()
+        public static Conexion getInstancia()
         {
             if (CON == null)
             {
