@@ -3,7 +3,75 @@
   "WorkspaceRootPath": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5026646B-B809-4FDC-9268-CF920B1ED633}|Sistema.Presentacion\\Sistema.Presentacion.csproj|j:\\github\\poe\\parciales\\proyecto-poe\\proyecto\\sistema.presentacion\\forms\\frmestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5026646B-B809-4FDC-9268-CF920B1ED633}|Sistema.Presentacion\\Sistema.Presentacion.csproj|J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\sistema.presentacion\\forms\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5026646B-B809-4FDC-9268-CF920B1ED633}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\forms\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026646B-B809-4FDC-9268-CF920B1ED633}|Sistema.Presentacion\\Sistema.Presentacion.csproj|j:\\github\\poe\\parciales\\proyecto-poe\\proyecto\\sistema.presentacion\\forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026646B-B809-4FDC-9268-CF920B1ED633}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75793C5A-1507-45C9-9043-924AC6EA0E0C}|Sistema.Negocio\\Sistema.Negocio.csproj|j:\\github\\poe\\parciales\\proyecto-poe\\proyecto\\sistema.negocio\\nestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75793C5A-1507-45C9-9043-924AC6EA0E0C}|Sistema.Negocio\\Sistema.Negocio.csproj|solutionrelative:sistema.negocio\\nestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75793C5A-1507-45C9-9043-924AC6EA0E0C}|Sistema.Negocio\\Sistema.Negocio.csproj|J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\sistema.negocio\\nusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75793C5A-1507-45C9-9043-924AC6EA0E0C}|Sistema.Negocio\\Sistema.Negocio.csproj|solutionrelative:sistema.negocio\\nusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C81262E-4B37-4595-92A1-FE718CE06F48}|Sistema.Entidades\\Sistema.Entidades.csproj|J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\sistema.entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C81262E-4B37-4595-92A1-FE718CE06F48}|Sistema.Entidades\\Sistema.Entidades.csproj|solutionrelative:sistema.entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CD2810-B340-4AEC-B107-5D8C0B37BE85}|Sistema.Datos\\Sistema.Datos.csproj|J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\sistema.datos\\destudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CD2810-B340-4AEC-B107-5D8C0B37BE85}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\destudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CD2810-B340-4AEC-B107-5D8C0B37BE85}|Sistema.Datos\\Sistema.Datos.csproj|J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\sistema.datos\\dusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CD2810-B340-4AEC-B107-5D8C0B37BE85}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\dusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CD2810-B340-4AEC-B107-5D8C0B37BE85}|Sistema.Datos\\Sistema.Datos.csproj|J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\sistema.datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CD2810-B340-4AEC-B107-5D8C0B37BE85}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026646B-B809-4FDC-9268-CF920B1ED633}|Sistema.Presentacion\\Sistema.Presentacion.csproj|j:\\github\\poe\\parciales\\proyecto-poe\\proyecto\\sistema.presentacion\\forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5026646B-B809-4FDC-9268-CF920B1ED633}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75793C5A-1507-45C9-9043-924AC6EA0E0C}|Sistema.Negocio\\Sistema.Negocio.csproj|j:\\github\\poe\\parciales\\proyecto-poe\\proyecto\\sistema.negocio\\ndocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75793C5A-1507-45C9-9043-924AC6EA0E0C}|Sistema.Negocio\\Sistema.Negocio.csproj|solutionrelative:sistema.negocio\\ndocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75793C5A-1507-45C9-9043-924AC6EA0E0C}|Sistema.Negocio\\Sistema.Negocio.csproj|j:\\github\\poe\\parciales\\proyecto-poe\\proyecto\\sistema.negocio\\nasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75793C5A-1507-45C9-9043-924AC6EA0E0C}|Sistema.Negocio\\Sistema.Negocio.csproj|solutionrelative:sistema.negocio\\nasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C81262E-4B37-4595-92A1-FE718CE06F48}|Sistema.Entidades\\Sistema.Entidades.csproj|j:\\github\\poe\\parciales\\proyecto-poe\\proyecto\\sistema.entidades\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C81262E-4B37-4595-92A1-FE718CE06F48}|Sistema.Entidades\\Sistema.Entidades.csproj|solutionrelative:sistema.entidades\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C81262E-4B37-4595-92A1-FE718CE06F48}|Sistema.Entidades\\Sistema.Entidades.csproj|j:\\github\\poe\\parciales\\proyecto-poe\\proyecto\\sistema.entidades\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C81262E-4B37-4595-92A1-FE718CE06F48}|Sistema.Entidades\\Sistema.Entidades.csproj|solutionrelative:sistema.entidades\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C81262E-4B37-4595-92A1-FE718CE06F48}|Sistema.Entidades\\Sistema.Entidades.csproj|j:\\github\\poe\\parciales\\proyecto-poe\\proyecto\\sistema.entidades\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C81262E-4B37-4595-92A1-FE718CE06F48}|Sistema.Entidades\\Sistema.Entidades.csproj|solutionrelative:sistema.entidades\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CD2810-B340-4AEC-B107-5D8C0B37BE85}|Sistema.Datos\\Sistema.Datos.csproj|j:\\github\\poe\\parciales\\proyecto-poe\\proyecto\\sistema.datos\\ddocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CD2810-B340-4AEC-B107-5D8C0B37BE85}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\ddocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CD2810-B340-4AEC-B107-5D8C0B37BE85}|Sistema.Datos\\Sistema.Datos.csproj|J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\sistema.datos\\dasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CD2810-B340-4AEC-B107-5D8C0B37BE85}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\dasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDAB901-FD55-4CEB-8AA5-328216EC7547}|Sistema.Datos\\Sistema.Datos.csproj|J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\sistema.datos\\dusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDAB901-FD55-4CEB-8AA5-328216EC7547}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\dusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026646B-B809-4FDC-9268-CF920B1ED633}|Sistema.Presentacion\\Sistema.Presentacion.csproj|J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\sistema.presentacion\\forms\\frmestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5026646B-B809-4FDC-9268-CF920B1ED633}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\forms\\frmestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -11,32 +79,8 @@
       "RelativeMoniker": "D:0:0:{5026646B-B809-4FDC-9268-CF920B1ED633}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\forms\\frmestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5026646B-B809-4FDC-9268-CF920B1ED633}|Sistema.Presentacion\\Sistema.Presentacion.csproj|J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\sistema.presentacion\\forms\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5026646B-B809-4FDC-9268-CF920B1ED633}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\forms\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75793C5A-1507-45C9-9043-924AC6EA0E0C}|Sistema.Negocio\\Sistema.Negocio.csproj|J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\sistema.negocio\\nestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75793C5A-1507-45C9-9043-924AC6EA0E0C}|Sistema.Negocio\\Sistema.Negocio.csproj|solutionrelative:sistema.negocio\\nestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98CD2810-B340-4AEC-B107-5D8C0B37BE85}|Sistema.Datos\\Sistema.Datos.csproj|J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\sistema.datos\\destudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98CD2810-B340-4AEC-B107-5D8C0B37BE85}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\destudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98CD2810-B340-4AEC-B107-5D8C0B37BE85}|Sistema.Datos\\Sistema.Datos.csproj|J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\sistema.datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98CD2810-B340-4AEC-B107-5D8C0B37BE85}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C81262E-4B37-4595-92A1-FE718CE06F48}|Sistema.Entidades\\Sistema.Entidades.csproj|J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\sistema.entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C81262E-4B37-4595-92A1-FE718CE06F48}|Sistema.Entidades\\Sistema.Entidades.csproj|solutionrelative:sistema.entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0670E4A7-C84B-4CF9-94E0-1935C8CC474B}|Sistema.Entidades\\Sistema.Entidades.csproj|J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\sistema.entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0670E4A7-C84B-4CF9-94E0-1935C8CC474B}|Sistema.Entidades\\Sistema.Entidades.csproj|solutionrelative:sistema.entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75793C5A-1507-45C9-9043-924AC6EA0E0C}|Sistema.Negocio\\Sistema.Negocio.csproj|J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\sistema.negocio\\nusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75793C5A-1507-45C9-9043-924AC6EA0E0C}|Sistema.Negocio\\Sistema.Negocio.csproj|solutionrelative:sistema.negocio\\nusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5026646B-B809-4FDC-9268-CF920B1ED633}|Sistema.Presentacion\\Sistema.Presentacion.csproj|J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\sistema.presentacion\\forms\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5026646B-B809-4FDC-9268-CF920B1ED633}|Sistema.Presentacion\\Sistema.Presentacion.csproj|J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\sistema.presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5026646B-B809-4FDC-9268-CF920B1ED633}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EDAB901-FD55-4CEB-8AA5-328216EC7547}|Sistema.Datos\\Sistema.Datos.csproj|J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\sistema.datos\\dusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EDAB901-FD55-4CEB-8AA5-328216EC7547}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\dusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +98,240 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DUsuario.cs",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Datos\\DUsuario.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DUsuario.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Datos\\DUsuario.cs",
+              "RelativeToolTip": "Sistema.Datos\\DUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T19:49:24.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Presentacion\\Forms\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Forms\\FrmPrincipal.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Presentacion\\Forms\\FrmPrincipal.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\Forms\\FrmPrincipal.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAqwHkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T01:30:49.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmUsuarios.cs [Design]",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Presentacion\\Forms\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Forms\\FrmUsuarios.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Presentacion\\Forms\\FrmUsuarios.cs [Design]",
+              "RelativeToolTip": "Sistema.Presentacion\\Forms\\FrmUsuarios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:02:37.641Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\Conexion.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Datos\\Conexion.cs",
+              "RelativeToolTip": "Sistema.Datos\\Conexion.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA/wC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:36:22.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidades\\Usuario.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Entidades\\Usuario.cs",
+              "RelativeToolTip": "Sistema.Entidades\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:36:21.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DEstudiante.cs",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Datos\\DEstudiante.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DEstudiante.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Datos\\DEstudiante.cs",
+              "RelativeToolTip": "Sistema.Datos\\DEstudiante.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwLUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:37:32.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NUsuario.cs",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Negocio\\NUsuario.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocio\\NUsuario.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Negocio\\NUsuario.cs",
+              "RelativeToolTip": "Sistema.Negocio\\NUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:49:06.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NEstudiante.cs",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Negocio\\NEstudiante.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocio\\NEstudiante.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Negocio\\NEstudiante.cs",
+              "RelativeToolTip": "Sistema.Negocio\\NEstudiante.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:39:04.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmPrincipal.cs [Design]",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Presentacion\\Forms\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Forms\\FrmPrincipal.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Presentacion\\Forms\\FrmPrincipal.cs [Design]",
+              "RelativeToolTip": "Sistema.Presentacion\\Forms\\FrmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T01:28:00.438Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DDocente.cs",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Datos\\DDocente.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DDocente.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Datos\\DDocente.cs",
+              "RelativeToolTip": "Sistema.Datos\\DDocente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T02:11:02.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Asignatura.cs",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Entidades\\Asignatura.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidades\\Asignatura.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Entidades\\Asignatura.cs",
+              "RelativeToolTip": "Sistema.Entidades\\Asignatura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T02:14:35.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Entidades\\Docente.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidades\\Docente.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Entidades\\Docente.cs",
+              "RelativeToolTip": "Sistema.Entidades\\Docente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T02:14:36.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Entidades\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidades\\Estudiante.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Entidades\\Estudiante.cs",
+              "RelativeToolTip": "Sistema.Entidades\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T02:14:37.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NAsignatura.cs",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Negocio\\NAsignatura.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocio\\NAsignatura.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Negocio\\NAsignatura.cs",
+              "RelativeToolTip": "Sistema.Negocio\\NAsignatura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T02:14:52.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NDocente.cs",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Negocio\\NDocente.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocio\\NDocente.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Negocio\\NDocente.cs",
+              "RelativeToolTip": "Sistema.Negocio\\NDocente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T02:14:52.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DAsignatura.cs",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Datos\\DAsignatura.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DAsignatura.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Datos\\DAsignatura.cs",
+              "RelativeToolTip": "Sistema.Datos\\DAsignatura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T19:39:36.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmEstudiantes.cs [Design]",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Presentacion\\Forms\\FrmEstudiantes.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Forms\\FrmEstudiantes.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Presentacion\\Forms\\FrmEstudiantes.cs [Design]",
+              "RelativeToolTip": "Sistema.Presentacion\\Forms\\FrmEstudiantes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:39:33.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DUsuario.cs",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Datos\\DUsuario.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DUsuario.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Datos\\DUsuario.cs",
+              "RelativeToolTip": "Sistema.Datos\\DUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:49:03.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "FrmEstudiantes.cs",
               "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Presentacion\\Forms\\FrmEstudiantes.cs",
               "RelativeDocumentMoniker": "Sistema.Presentacion\\Forms\\FrmEstudiantes.cs",
@@ -70,83 +339,11 @@
               "RelativeToolTip": "Sistema.Presentacion\\Forms\\FrmEstudiantes.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA+wB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T18:39:34.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T18:39:34.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmEstudiantes.cs [Design]",
-              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Presentacion\\Forms\\FrmEstudiantes.cs",
-              "RelativeDocumentMoniker": "Sistema.Presentacion\\Forms\\FrmEstudiantes.cs",
-              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Presentacion\\Forms\\FrmEstudiantes.cs [Design]",
-              "RelativeToolTip": "Sistema.Presentacion\\Forms\\FrmEstudiantes.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T18:39:33.815Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NEstudiante.cs",
-              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Negocio\\NEstudiante.cs",
-              "RelativeDocumentMoniker": "Sistema.Negocio\\NEstudiante.cs",
-              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Negocio\\NEstudiante.cs",
-              "RelativeToolTip": "Sistema.Negocio\\NEstudiante.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T18:39:04.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Datos\\Conexion.cs",
-              "RelativeDocumentMoniker": "Sistema.Datos\\Conexion.cs",
-              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Datos\\Conexion.cs",
-              "RelativeToolTip": "Sistema.Datos\\Conexion.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T18:36:22.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DEstudiante.cs",
-              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Datos\\DEstudiante.cs",
-              "RelativeDocumentMoniker": "Sistema.Datos\\DEstudiante.cs",
-              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Datos\\DEstudiante.cs",
-              "RelativeToolTip": "Sistema.Datos\\DEstudiante.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T18:37:32.081Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Entidades\\Usuario.cs",
-              "RelativeDocumentMoniker": "Sistema.Entidades\\Usuario.cs",
-              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Entidades\\Usuario.cs",
-              "RelativeToolTip": "Sistema.Entidades\\Usuario.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAIA8wA0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T18:36:21.075Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmUsuarios.cs [Design]",
-              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Presentacion\\Forms\\FrmUsuarios.cs",
-              "RelativeDocumentMoniker": "Sistema.Presentacion\\Forms\\FrmUsuarios.cs",
-              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Presentacion\\Forms\\FrmUsuarios.cs [Design]",
-              "RelativeToolTip": "Sistema.Presentacion\\Forms\\FrmUsuarios.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T18:02:37.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "FrmUsuarios.cs",
               "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Presentacion\\Forms\\FrmUsuarios.cs",
               "RelativeDocumentMoniker": "Sistema.Presentacion\\Forms\\FrmUsuarios.cs",
@@ -154,11 +351,12 @@
               "RelativeToolTip": "Sistema.Presentacion\\Forms\\FrmUsuarios.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T18:02:41.25Z"
+              "WhenOpened": "2025-10-30T18:02:41.25Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Presentacion\\Program.cs",
               "RelativeDocumentMoniker": "Sistema.Presentacion\\Program.cs",
@@ -170,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "Usuario.cs",
               "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Entidades\\Usuario.cs",
               "RelativeDocumentMoniker": "Sistema.Entidades\\Usuario.cs",
@@ -179,30 +377,6 @@
               "ViewState": "AgIAAAIAAAAAAAAAAAArwA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T17:48:49.329Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NUsuario.cs",
-              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Negocio\\NUsuario.cs",
-              "RelativeDocumentMoniker": "Sistema.Negocio\\NUsuario.cs",
-              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Negocio\\NUsuario.cs",
-              "RelativeToolTip": "Sistema.Negocio\\NUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T17:49:06.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DUsuario.cs",
-              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Datos\\DUsuario.cs",
-              "RelativeDocumentMoniker": "Sistema.Datos\\DUsuario.cs",
-              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Proyecto-POE\\Proyecto\\Sistema.Datos\\DUsuario.cs",
-              "RelativeToolTip": "Sistema.Datos\\DUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T17:49:03.913Z"
             }
           ]
         }

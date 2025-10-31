@@ -5,14 +5,16 @@ using Sistema.Entidades;
 
 namespace Sistema.Datos
 {
+    // Clase que maneja todas las operaciones de la tabla Usuarios
     public class UsuarioDatos
     {
-        private string cadena = "Data Source=.;Initial Catalog=SistemaAcademico;Integrated Security=True";
+        // Método para insertar un nuevo usuario en la base de datos
         public void Insertar(Usuario u)
         {
-            using (SqlConnection con = new SqlConnection(cadena))
+            // Usamos la conexión desde Conexion.cs
+            using (SqlConnection con = Conexion.GetInstancia().CrearConexion())
             {
-                con.Open();
+                con.Open(); // Abrir conexión
                 string sql = "INSERT INTO Usuarios (nombre_usuario, contrasena, id_rol) VALUES (@nombre, @contrasena, @idRol)";
                 SqlCommand cmd = new SqlCommand(sql, con);
                 cmd.Parameters.AddWithValue("@nombre", u.nombre_usuario);
@@ -22,10 +24,11 @@ namespace Sistema.Datos
             }
         }
 
+        // Método para obtener todos los usuarios
         public List<Usuario> ObtenerTodos()
         {
             List<Usuario> lista = new List<Usuario>();
-            using (SqlConnection con = new SqlConnection(cadena))
+            using (SqlConnection con = Conexion.GetInstancia().CrearConexion())
             {
                 con.Open();
                 string sql = "SELECT * FROM Usuarios";
@@ -44,9 +47,10 @@ namespace Sistema.Datos
             return lista;
         }
 
+        // Método para actualizar los datos de un usuario existente
         public void Actualizar(Usuario u)
         {
-            using (SqlConnection con = new SqlConnection(cadena))
+            using (SqlConnection con = Conexion.GetInstancia().CrearConexion())
             {
                 con.Open();
                 string sql = "UPDATE Usuarios SET nombre_usuario=@nombre, contrasena=@contrasena, id_rol=@idRol WHERE id_usuario=@id";
@@ -59,9 +63,10 @@ namespace Sistema.Datos
             }
         }
 
+        // Método para eliminar un usuario de la base de datos
         public void Eliminar(int id)
         {
-            using (SqlConnection con = new SqlConnection(cadena))
+            using (SqlConnection con = Conexion.GetInstancia().CrearConexion())
             {
                 con.Open();
                 string sql = "DELETE FROM Usuarios WHERE id_usuario=@id";

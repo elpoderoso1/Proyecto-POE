@@ -4,12 +4,14 @@ using System.Data.SqlClient;
 
 namespace Sistema.Datos
 {
+    // Clase para manejar todas las operaciones sobre la tabla Estudiantes
     public class DEstudiante
     {
+        // Método para listar todos los estudiantes
         public DataTable Listar()
         {
             DataTable tabla = new DataTable();
-            using (SqlConnection cn = Conexion.getInstancia().CrearConexion())
+            using (SqlConnection cn = Conexion.GetInstancia().CrearConexion())
             using (SqlCommand cmd = new SqlCommand("SELECT * FROM Estudiantes ORDER BY nombre", cn))
             {
                 cn.Open();
@@ -21,16 +23,17 @@ namespace Sistema.Datos
             return tabla;
         }
 
+        // Método para buscar estudiantes según un criterio en nombre, documento o correo
         public DataTable Buscar(string criterio)
         {
             DataTable tabla = new DataTable();
             string sql = @"SELECT * FROM Estudiantes 
                             WHERE nombre LIKE @criterio OR 
-                                documento LIKE @criterio OR 
-                                correo LIKE @criterio
+                                    documento LIKE @criterio OR 
+                                    correo LIKE @criterio
                             ORDER BY nombre";
 
-            using (SqlConnection cn = Conexion.getInstancia().CrearConexion())
+            using (SqlConnection cn = Conexion.GetInstancia().CrearConexion())
             using (SqlCommand cmd = new SqlCommand(sql, cn))
             {
                 cmd.Parameters.AddWithValue("@criterio", $"%{criterio}%");
@@ -43,6 +46,7 @@ namespace Sistema.Datos
             return tabla;
         }
 
+        // Método para insertar un nuevo estudiante
         public string Insertar(string nombre, string documento, DateTime fecha_nacimiento,
                                 string direccion, string telefono, string correo, string fotografia)
         {
@@ -56,7 +60,7 @@ namespace Sistema.Datos
                             (nombre, documento, fecha_nacimiento, direccion, telefono, correo, fotografia)
                             VALUES (@nombre, @documento, @fecha_nac, @direccion, @telefono, @correo, @foto)";
 
-            using (SqlConnection cn = Conexion.getInstancia().CrearConexion())
+            using (SqlConnection cn = Conexion.GetInstancia().CrearConexion())
             using (SqlCommand cmd = new SqlCommand(sql, cn))
             {
                 cmd.Parameters.AddWithValue("@nombre", nombre);
@@ -72,6 +76,7 @@ namespace Sistema.Datos
             }
         }
 
+        // Método para actualizar un estudiante existente
         public string Actualizar(int id_estudiante, string nombre, string documento, DateTime fecha_nacimiento,
                                 string direccion, string telefono, string correo, string fotografia)
         {
@@ -86,7 +91,7 @@ namespace Sistema.Datos
                                 direccion = @direccion, telefono = @telefono, correo = @correo, fotografia = @foto
                             WHERE id_estudiante = @id";
 
-            using (SqlConnection cn = Conexion.getInstancia().CrearConexion())
+            using (SqlConnection cn = Conexion.GetInstancia().CrearConexion())
             using (SqlCommand cmd = new SqlCommand(sql, cn))
             {
                 cmd.Parameters.AddWithValue("@id", id_estudiante);
@@ -103,6 +108,7 @@ namespace Sistema.Datos
             }
         }
 
+        // Método para eliminar un estudiante
         public string Eliminar(int id_estudiante)
         {
             if (TieneMatriculasActivas(id_estudiante))
@@ -110,7 +116,7 @@ namespace Sistema.Datos
 
             string sql = "DELETE FROM Estudiantes WHERE id_estudiante = @id";
 
-            using (SqlConnection cn = Conexion.getInstancia().CrearConexion())
+            using (SqlConnection cn = Conexion.GetInstancia().CrearConexion())
             using (SqlCommand cmd = new SqlCommand(sql, cn))
             {
                 cmd.Parameters.AddWithValue("@id", id_estudiante);
@@ -119,13 +125,14 @@ namespace Sistema.Datos
             }
         }
 
+        // Método privado para verificar si un documento ya existe
         private bool DocumentoExiste(string documento, int idExcluir = 0)
         {
             string sql = idExcluir == 0 ?
                 "SELECT COUNT(*) FROM Estudiantes WHERE documento = @documento" :
                 "SELECT COUNT(*) FROM Estudiantes WHERE documento = @documento AND id_estudiante != @id";
 
-            using (SqlConnection cn = Conexion.getInstancia().CrearConexion())
+            using (SqlConnection cn = Conexion.GetInstancia().CrearConexion())
             using (SqlCommand cmd = new SqlCommand(sql, cn))
             {
                 cmd.Parameters.AddWithValue("@documento", documento);
@@ -137,13 +144,14 @@ namespace Sistema.Datos
             }
         }
 
+        // Método privado para verificar si un correo ya existe
         private bool CorreoExiste(string correo, int idExcluir = 0)
         {
             string sql = idExcluir == 0 ?
                 "SELECT COUNT(*) FROM Estudiantes WHERE correo = @correo" :
                 "SELECT COUNT(*) FROM Estudiantes WHERE correo = @correo AND id_estudiante != @id";
 
-            using (SqlConnection cn = Conexion.getInstancia().CrearConexion())
+            using (SqlConnection cn = Conexion.GetInstancia().CrearConexion())
             using (SqlCommand cmd = new SqlCommand(sql, cn))
             {
                 cmd.Parameters.AddWithValue("@correo", correo);
@@ -155,12 +163,13 @@ namespace Sistema.Datos
             }
         }
 
+        // Método privado para verificar si un estudiante tiene matrículas activas
         private bool TieneMatriculasActivas(int id_estudiante)
         {
             string sql = @"SELECT COUNT(*) FROM Matriculas 
                             WHERE estudiante = @id_estudiante";
 
-            using (SqlConnection cn = Conexion.getInstancia().CrearConexion())
+            using (SqlConnection cn = Conexion.GetInstancia().CrearConexion())
             using (SqlCommand cmd = new SqlCommand(sql, cn))
             {
                 cmd.Parameters.AddWithValue("@id_estudiante", id_estudiante);

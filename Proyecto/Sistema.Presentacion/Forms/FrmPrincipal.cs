@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Sistema.Presentacion.Forms;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -102,6 +103,24 @@ namespace Sistema.Presentacion
             {
                 childForm.Close();
             }
+        }
+
+        private void btnDocentes_Click(object sender, EventArgs e)
+        {
+            FrmDocentes frmDocentes = new FrmDocentes();
+            frmDocentes.Show(); // Para que se abra en modo no modal
+        }
+
+        private void btnEstudiantes_Click(object sender, EventArgs e)
+        {
+            FrmEstudiantes frmEstudiantes = new FrmEstudiantes();
+            frmEstudiantes.Show();
+        }
+
+        private void btnUsuarios_Click(object sender, EventArgs e)
+        {
+            FrmUsuarios frmUsuarios = new FrmUsuarios();
+            frmUsuarios.Show();
         }
     }
 }
