@@ -107,7 +107,7 @@ namespace Sistema.Presentacion
 
         private void btnDocentes_Click(object sender, EventArgs e)
         {
-            FrmDocentes frmDocentes = new FrmDocentes();
+            FrmDocente frmDocentes = new FrmDocente();
             frmDocentes.Show(); // Para que se abra en modo no modal
         }
 

@@ -1,12 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Sistema.Datos;
+using System;
+using System.Data;
+
 
 namespace Sistema.Negocio
 {
-    internal class NAsignatura
+    public class NAsignatura
     {
+        public static void Agregar(string codigo, string nombre, string descripcion, int creditos)
+            => DAsignatura.Insertar(codigo, nombre, descripcion, creditos);
+
+        public static DataTable Mostrar() => DAsignatura.Listar();
+
+        public static void Eliminar(int id) => DAsignatura.Eliminar(id);
+
+        public static void Editar(int id, string codigo, string nombre, string descripcion, int creditos)
+             => DAsignatura.Actualizar(id, codigo, nombre, descripcion, creditos);
+
     }
 }

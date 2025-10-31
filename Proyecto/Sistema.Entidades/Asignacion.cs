@@ -6,15 +6,13 @@ using System.Threading.Tasks;
 
 namespace Sistema.Entidades
 {
-    internal class AsignaturaE
+    internal class AsignacionE
     {
 
+        public int IdAsignacion { get; set; }
+        public int IdDocente { get; set; }
         public int IdAsignatura { get; set; }
-        public string Codigo { get; set; }
-        public string Nombre { get; set; }
-        public string Descripcion { get; set; }
-        public int Creditos { get; set; }
+        public string IdGrado { get; set; }
     }
 }
-
 

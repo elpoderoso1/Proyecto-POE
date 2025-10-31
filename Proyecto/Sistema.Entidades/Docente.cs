@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace Sistema.Entidades
 {
-    internal class Docente
+    public class DocenteE
     {
+
+
+        public int IdDocente { get; set; }
+        public string Nombre { get; set; }
+        public string Especialidad { get; set; }
+        public string Documento { get; set; }
+        public string Contacto { get; set; }
     }
+
 }

@@ -41,9 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="NAsignacion.cs" />
     <Compile Include="NAsignatura.cs" />
     <Compile Include="NDocente.cs" />
     <Compile Include="NEstudiante.cs" />
+    <Compile Include="NGrado.cs" />
     <Compile Include="NUsuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
